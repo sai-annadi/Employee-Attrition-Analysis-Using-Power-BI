@@ -1,4 +1,4 @@
-###  Employee Attrition Analysis with Power BI
+###  Employee Attrition Analysis Using Power BI
 
 ![image](https://github.com/sai-annadi/Employee-Attrition-Analysis-Using-Power-BI/assets/111168434/a91e5be6-bc90-46ee-89ed-e4ff162c1040)
 
